@@ -1,12 +1,12 @@
 #!/usr/bin/env python
 """Stream_publisher.py: Send video stream via Mosquitto Mqtt topic """
 
-__author__ = "Jatin Goyal"
+__author__ = "Kamlesh Prajapati"
 __copyright__ = "Copyright 2022, Video surveillance Project"
 __license__ = "GPL"
 __version__ = "1.0.1"
-__maintainer__ = "Jatin Goyal"
-__email__ = "robojatin@gmail.com"
+__maintainer__ = "Kamlesh Prajapati"
+__email__ = "kamlesh6047@yahoo.in"
 __status__ = "Production"
 
 import cv2
